@@ -16,7 +16,7 @@ To grow as a Cybersecurity Analyst and contribute to protecting digital environm
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Malware Traffic Analysis and Sandboxing         | <a href="https://google.com">Detection Lab</a>|
+| Malware Traffic Analysis and Sandboxing         | <a href="https://github.com/Yomi-stack/Malware-Traffic-Analysis-and-Sandboxing/blob/main">Malware Traffic Analysis and Sandboxing</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -54,7 +54,6 @@ To grow as a Cybersecurity Analyst and contribute to protecting digital environm
 </div>
 
 ## Projects
--DETECTION LAB
-
+-<a href="https://github.com/Yomi-stack/Malware-Traffic-Analysis-and-Sandboxing/blob/main">Malware Traffic Analysis and Sandboxing</a>|
 
 
