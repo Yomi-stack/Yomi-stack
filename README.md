@@ -1,6 +1,6 @@
-# Hello, I'm Abayomi
+# Hi, I'm Abayomi 👋 
 
-### 🛡️ Cybersecurity Analyst in Training | Transitioning Professional
+### 🛡️ Aspiring SOC Analyst | Transitioning Cybersecurity Professional
 I am a former professional dog breeder transitioning into *Cybersecurity. My background in high-stakes asset management and pattern monitoring has given me a unique perspective on **Risk Management* and *Operational Security*. 
 
 ### 🚀 Featured Project: SOC Lab Setup & Monitoring
