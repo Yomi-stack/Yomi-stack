@@ -1,16 +1,16 @@
 # Hi, I'm Abayomi 👋 
 
 ### 🛡️ Aspiring SOC Analyst | Transitioning Cybersecurity Professional
-I am a former professional dog breeder transitioning into *Cybersecurity*. My background in high-stakes asset management and pattern monitoring has given me a unique perspective on *Risk Management* and *Operational Security*. 
+I am a former professional dog breeder transitioning into *Cybersecurity*. My background in high stakes asset management and pattern monitoring has given me a unique perspective on *Risk Management* and *Operational Security*. 
 
 ### 🚀 Featured Project: SOC Lab Setup & Monitoring
 **[SOC Lab: Setup, Architecture, and Live Monitoring](https://github.com/Yomi-Stack/SOC-Lab-Setup-and-Architecture)**
 * Deployed a *Wazuh (SIEM/XDR)* manager on Ubuntu.
 * Configured a *Windows 11* telemetry source via Wazuh Agent.
-* *Key Achievement:* Successfully verified log ingestion and real-time dashboard visualization for endpoint security events.
+* *Key Achievement:* Successfully verified log ingestion and real time dashboard visualization for endpoint security events.
 
  ### 🛡️ From Breeding to Security: The Transferable Skills
-* *Asset Protection:* Managed high-value physical assets; now protecting digital ones.
+* *Asset Protection:* Managed high value physical assets; now protecting digital ones.
 * *Vigilance:* Experienced in monitoring for anomalies and subtle patterns.
 * *Compliance:* Managed meticulous records and client data with a high degree of integrity.
   
