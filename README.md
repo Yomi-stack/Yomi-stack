@@ -1,26 +1,29 @@
 # Hello, I'm Abayomi
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m transitioning into **Cybersecurity** after 5 years as a professional **dog breeder**.  
-Breeding taught me valuable skills that I now apply to security:  
-- 🛡️ Risk management & safeguarding valuable assets  
-- 🔍 Attention to detail in monitoring logs, patterns, and anomalies  
-- 📑 Record-keeping & compliance mindset  
-- 🤝 Building trust and handling sensitive client data  
+### 🛡️ Cybersecurity Analyst in Training | Transitioning Professional
+I am a former professional dog breeder transitioning into *Cybersecurity. My background in high-stakes asset management and pattern monitoring has given me a unique perspective on **Risk Management* and *Operational Security*. 
 
-## Objective
-To grow as a Cybersecurity Analyst and contribute to protecting digital environments.
+### 🚀 Featured Project: SOC Lab Setup & Monitoring
+**[SOC Lab: Setup, Architecture, and Live Monitoring](https://github.com/Yomi-Stack/SOC-Lab-Setup-and-Architecture)**
+* Deployed a *Wazuh (SIEM/XDR)* manager on Ubuntu.
+* Configured a *Windows 11* telemetry source via Wazuh Agent.
+* *Key Achievement:* Successfully verified log ingestion and real-time dashboard visualization for endpoint security events.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+ ### 🛡️ From Breeding to Security: The Transferable Skills
+* *Asset Protection:* Managed high-value physical assets; now protecting digital ones.
+* *Vigilance:* Experienced in monitoring for anomalies and subtle patterns.
+* *Compliance:* Managed meticulous records and client data with a high degree of integrity.
+  
+### 🛠️ Skills & Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Malware Traffic Analysis and Sandboxing       | <a href="https://github.com/Yomi-stack/Malware-Traffic-Analysis-and-Sandboxing/blob/main">Malware Traffic Analysis and Sandboxing</a>|
 | SIEM & Log Analysis                           | <a href="https://github.com/Yomi-stack/SOC-Analyst-Labs/tree/main/SOC-Lab-Setup-and-Architecture">SOC Lab: Setup & Architecture</a>|
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### 🧰 Technical Toolkit
+
 
 ### Network
 <div>
@@ -42,14 +45,12 @@ To grow as a Cybersecurity Analyst and contribute to protecting digital environm
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+### 📜 Certifications
  <img src="https://img.shields.io/badge/-Cisco%20Intro%20to%20Cybersecurity-1ba0d7?&style=for-the-badge&logo=cisco&logoColor=white" />
 </a>
 
 
 </div>
 
-## Projects
--<a href="https://github.com/Yomi-stack/Malware-Traffic-Analysis-and-Sandboxing/blob/main">Malware Traffic Analysis and Sandboxing</a>|
 
 
