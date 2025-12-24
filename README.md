@@ -17,7 +17,7 @@ To grow as a Cybersecurity Analyst and contribute to protecting digital environm
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Malware Traffic Analysis and Sandboxing       | <a href="https://github.com/Yomi-stack/Malware-Traffic-Analysis-and-Sandboxing/blob/main">Malware Traffic Analysis and Sandboxing</a>|
-| SIEM & Log Analysis                           | <a href="https://github.com/Yomi-Stack/SOC-Lab-Setup-and-Architecture">SOC Lab: Setup & Architecture</a>|
+| SIEM & Log Analysis                           | <a href="https://github.com/Yomi-stack/SOC-Analyst-Labs/tree/main/SOC-Lab-Setup-and-Architecture">SOC Lab: Setup & Architecture</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
