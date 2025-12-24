@@ -1,5 +1,4 @@
 # Hello, I'm Abayomi
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ### 🛡️ Cybersecurity Analyst in Training | Transitioning Professional
 I am a former professional dog breeder transitioning into *Cybersecurity. My background in high-stakes asset management and pattern monitoring has given me a unique perspective on **Risk Management* and *Operational Security*. 
@@ -51,6 +50,7 @@ I am a former professional dog breeder transitioning into *Cybersecurity. My bac
 
 
 </div>
-
+### 📫 Let's Connect!
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
