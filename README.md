@@ -41,7 +41,7 @@ To grow as a Cybersecurity Analyst and contribute to protecting digital environm
 
 ### SIEM
 <div>
-    ![Wazuh](https://img.shields.io/badge/-Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white)
+    <img src="https://img.shields.io/badge/-Wazuh-000000?style=for-the-badge&logo=wazuh&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
