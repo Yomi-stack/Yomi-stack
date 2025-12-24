@@ -1,7 +1,7 @@
 # Hi, I'm Abayomi 👋 
 
 ### 🛡️ Aspiring SOC Analyst | Transitioning Cybersecurity Professional
-I am a former professional dog breeder transitioning into *Cybersecurity. My background in high-stakes asset management and pattern monitoring has given me a unique perspective on **Risk Management* and *Operational Security*. 
+I am a former professional dog breeder transitioning into *Cybersecurity*. My background in high-stakes asset management and pattern monitoring has given me a unique perspective on *Risk Management* and *Operational Security*. 
 
 ### 🚀 Featured Project: SOC Lab Setup & Monitoring
 **[SOC Lab: Setup, Architecture, and Live Monitoring](https://github.com/Yomi-Stack/SOC-Lab-Setup-and-Architecture)**
