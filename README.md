@@ -1,25 +1,22 @@
 # Hi, I'm Abayomi 👋 
 
 ### 🛡️ Aspiring SOC Analyst | Transitioning Cybersecurity Professional
-I am a former professional dog breeder transitioning into *Cybersecurity*. My background in high stakes asset management and pattern monitoring has given me a unique perspective on *Risk Management* and *Operational Security*. 
+Highly detail oriented professional transitioning from 6+ years in High-Stakes Operational Management and Security Breeding into Cybersecurity. I specialize in bridging the gap between physical security principles and digital threat detection.
 
-### 🚀 Featured Project: SOC Lab Setup & Monitoring
-**[SOC Lab: Setup, Architecture, and Live Monitoring](https://github.com/Yomi-Stack/SOC-Lab-Setup-and-Architecture)**
-* Deployed a *Wazuh (SIEM/XDR)* manager on Ubuntu.
-* Configured a *Windows 11* telemetry source via Wazuh Agent.
-* *Key Achievement:* Successfully verified log ingestion and real time dashboard visualization for endpoint security events.
+Throughout my career, I have managed high value assets where zero-failure was the standard handling complex logistics, biological risk mitigation, and compliance. I am now applying that same "detect, analyze, and respond" mindset to the digital landscape, using tools like Wazuh, Splunk, Suricata, Sysmon, and Linux to secure enterprise environments.
 
- ### 🛡️ From Breeding to Security: The Transferable Skills
-* *Asset Protection:* Managed high value physical assets; now protecting digital ones.
-* *Vigilance:* Experienced in monitoring for anomalies and subtle patterns.
-* *Compliance:* Managed meticulous records and client data with a high degree of integrity.
+Why I’m different:
+* Vigilance: Six years of monitoring environmental variables for threats and anomalies.
+* Process-Driven: Expert at following strict protocols (SOPs) to ensure safety and quality control.
+* Systems Thinking: I understand how a single "broken link" in a chain can compromise an entire operation.
   
 ### 🛠️ Skills & Projects
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Malware Traffic Analysis and Sandboxing       | <a href="https://github.com/Yomi-stack/Malware-Traffic-Analysis-and-Sandboxing/blob/main">Malware Traffic Analysis and Sandboxing</a>|
-| SIEM & Log Analysis                           | <a href="https://github.com/Yomi-stack/SOC-Analyst-Labs/tree/main/SOC-Lab-Setup-and-Architecture">SOC Lab: Setup & Architecture</a>|
+| Skill                                               | Associated Project         |
+|-----------------------------------------------------|----------------------------|
+| Malware Traffic Analysis and Sandboxing             | <a href="https://github.com/Yomi-stack/Malware-Traffic-Analysis-and-Sandboxing/blob/main">Malware Traffic Analysis and Sandboxing</a>|
+| SIEM & Log Analysis                                 | <a href="https://github.com/Yomi-stack/SOC-Analyst-Labs)">SOC Automation Lab: Infrastructure & Log Analysis</a>|
+| SIEM & Automation    | <a href="https://github.com/Yomi-stack/sysmon-wazuh-slack-integration">SIEM Implementation & Incident Alerting Pipeline</a>|
 
 ### 🧰 Technical Toolkit
 
