@@ -15,7 +15,7 @@ Why I’m different:
 | Skill                                               | Associated Project         |
 |-----------------------------------------------------|----------------------------|
 | Malware Traffic Analysis and Sandboxing             | <a href="https://github.com/Yomi-stack/Malware-Traffic-Analysis-and-Sandboxing/blob/main">Malware Traffic Analysis and Sandboxing</a>|
-| SIEM & Log Analysis                                 | <a href="https://github.com/Yomi-stack/SOC-Analyst-Labs)">SOC Automation Lab: Infrastructure & Log Analysis</a>|
+| SIEM & Log Analysis                                 | <a href="https://github.com/Yomi-stack/SOC-Analyst-Labs">SOC Automation Lab: Infrastructure & Log Analysis</a>|
 | SIEM & Automation    | <a href="https://github.com/Yomi-stack/sysmon-wazuh-slack-integration">SIEM Implementation & Incident Alerting Pipeline</a>|
 
 ### 🧰 Technical Toolkit
